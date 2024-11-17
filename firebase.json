@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"dio-chat","appId":"1:616080883033:android:c593ee956d61e01942e048","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"dio-chat","configurations":{"android":"1:616080883033:android:c593ee956d61e01942e048","ios":"1:616080883033:ios:a2f42e18cca5462742e048"}}}}}}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616080883033",
+    "project_id": "dio-chat",
+    "storage_bucket": "dio-chat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616080883033:android:c593ee956d61e01942e048",
+        "android_client_info": {
+          "package_name": "com.dio_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjclW_KlDtJkzbQIaHd1KoIs2OFKGmoUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
